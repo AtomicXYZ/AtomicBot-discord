@@ -1,1 +1,1 @@
-# atomicbot-v1
+# atomicbot
