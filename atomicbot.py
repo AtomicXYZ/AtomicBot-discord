@@ -1,1 +1,1 @@
-# haha noob skid u thought
+print("make your own")
