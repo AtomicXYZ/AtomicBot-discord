@@ -48,7 +48,7 @@ Utility Commands:
 And more!
 
 # Credits
-[MixV2](https://github.com/MixV2) - Epic Games Endpoints Resources
-[BenBot API](https://benbotfn.tk/) - Cosmetic Data
-[FortniteAPI.com](https://fortnite-api.com/) - Utility Commands & Cosmetic Variants Data
-[GummyFN API](https://api.gummyfn.com/api) by Gummy and Pirxcy - Fortnite Asset data & Cosmetics Library
+[MixV2](https://github.com/MixV2) - Epic Games Endpoints Resources<br>
+[BenBot API](https://benbotfn.tk/) - Cosmetic Data<br>
+[FortniteAPI.com](https://fortnite-api.com/) - Utility Commands & Cosmetic Variants Data<br>
+[GummyFN API](https://api.gummyfn.com/api) by Gummy and Pirxcy - Fortnite Asset data & Cosmetics Library<br>
