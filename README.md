@@ -22,3 +22,33 @@ AtomicBot is a Discord-based Fortnite lobby bot creation and hosting service.
 
 # Invite the Bot
 Got to https://atomicxyz.tk/atomicbot to invite the bot and join the support server
+
+# Commands and features
+
+The prefix for the bot is `a!` (view commands with `a!help`)
+
+Lobby Bot Commmands:
+1. Skin
+2. Emote
+3. Blackpack
+4. Level
+5. Pickaxe
+6. Hide
+7. Styles/Variants
+8. Ready
+9. Sitout
+10. Party Privacy
+11. Match Status
+
+Utility Commands:
+1. Battle Royale News
+2. Battle Royale Stats
+3. [Item Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop)
+
+And more!
+
+# Credits
+[MixV2](https://github.com/MixV2) - Epic Games Endpoints Resources
+[BenBot API](https://benbotfn.tk/) - Cosmetic Data
+[FortniteAPI.com](https://fortnite-api.com/) - Utility Commands & Cosmetic Variants Data
+[GummyFN API](https://api.gummyfn.com/api) by Gummy and Pirxcy - Fortnite Asset data & Cosmetics Library
