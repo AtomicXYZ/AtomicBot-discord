@@ -29,7 +29,7 @@ Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support serv
 **Authorization:** [Device Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_auth.md) for logging into lobby bot accounts<br>
 
 **Lobby Bot Commmands:**
-1. Skin
+1. a!skin [skin]
 2. Emote
 3. Blackpack
 4. Level
