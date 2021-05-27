@@ -42,9 +42,9 @@ Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support serv
 12. a!match [players remaining] - Changes match status
 
 **Utility Commands:**
-1. a!news - Battle Royale News Image (from Fortnite-API.com)
-2. a!stats - Battle Royale Stats (from Fortnite-API.com)
-3. a!shop - [Item Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop) (from py-Fortnite-Shop)
+1. a!news - Battle Royale News Image (from [Fortnite-API.com](https://fortnite-api.com/))
+2. a!stats - Battle Royale Stats (from [Fortnite-API.com](https://fortnite-api.com/))
+3. a!shop - Item Shop (from [py-Fortnite-Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop))
 
 And more!
 
