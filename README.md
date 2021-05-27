@@ -26,9 +26,9 @@ Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support serv
 
 The prefix for the bot is `a!` (view commands with `a!help`)<br>
 
-Authorization: [Device Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_auth.md) for logging into lobby bot accounts<br>
+**Authorization:** [Device Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_auth.md) for logging into lobby bot accounts<br>
 
-Lobby Bot Commmands:
+**Lobby Bot Commmands:**
 1. Skin
 2. Emote
 3. Blackpack
@@ -41,7 +41,7 @@ Lobby Bot Commmands:
 10. Party Privacy
 11. Match Status
 
-Utility Commands:
+**Utility Commands:**
 1. Battle Royale News
 2. Battle Royale Stats
 3. [Item Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop)
