@@ -8,7 +8,7 @@
 </div>
 
 # About
-AtomicBot is a Discord-based Fortnite lobby bot creation and hosting service.
+AtomicBot is a Fortnite lobby bot creation and hosting service controlled through Discord.
 
 # Usage
 1. Join the [Discord](https://atomicxyz.tk/discord) Server
