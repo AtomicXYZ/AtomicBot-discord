@@ -29,22 +29,22 @@ Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support serv
 **Authorization:** [Device Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_auth.md) for logging into lobby bot accounts<br>
 
 **Lobby Bot Commmands:**
-1. a!skin [skin]
-2. Emote
-3. Blackpack
-4. Level
-5. Pickaxe
-6. Hide
-7. Styles/Variants
-8. Ready
-9. Sitout
-10. Party Privacy
-11. Match Status
+1. a!skin [skin] - Sets the bot's skin
+2. a!emote [emote] - Sets the bot's emote
+3. a!blackpack [backpack] - Sets the bot's backbling
+4. a!level [level number] - Sets the bot's level
+5. a!pickaxe [pickaxe] - Sets the bot's pickaxe
+6. a!hide - Hides all players in the party (Requires bot to be party leader)
+7. a!style [cosmetic name] - Sets the bot's skin with a specific style/variant
+8. a!ready/a!unready - Changes ready status
+10. a!sitout/a!sitin - Changes sitout status
+11. a!privacy [public/private] - Changes party privacy (Requires bot to be party leader)
+12. a!match [players remaining] - Changes match status
 
 **Utility Commands:**
-1. Battle Royale News
-2. Battle Royale Stats
-3. [Item Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop)
+1. a!news - Battle Royale News Image (from Fortnite-API.com)
+2. a!stats - Battle Royale Stats (from Fortnite-API.com)
+3. a!shop - [Item Shop](https://github.com/AtomicXYZ/py-Fortnite-Shop) (from py-Fortnite-Shop)
 
 And more!
 
