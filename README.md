@@ -50,5 +50,5 @@ And more!
 [MixV2](https://github.com/MixV2) - Epic Games Endpoints Resources<br>
 [BenBot API](https://benbotfn.tk/) - Cosmetic Data<br>
 [Fortnite-API.com](https://fortnite-api.com/) - Utility Commands & Cosmetic Variants Data<br>
-[FortniteAPI.io](https://fortniteapi.io/) - Item Shop Data
+[FortniteAPI.io](https://fortniteapi.io/) - Item Shop Data<br>
 [GummyFN API](https://api.gummyfn.com/api) by Gummy and Pirxcy - Fortnite Asset data & Cosmetics Library<br>
