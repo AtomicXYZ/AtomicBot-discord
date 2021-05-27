@@ -24,7 +24,7 @@ Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support serv
 
 # Commands and features
 
-The prefix for the bot is `a!` (view commands with `a!help`)<br>
+**Prefix:** `a!` (view commands with `a!help`)<br>
 
 **Authorization:** [Device Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_auth.md) for logging into lobby bot accounts<br>
 
