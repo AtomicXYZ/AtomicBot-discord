@@ -20,7 +20,7 @@ AtomicBot is a Fortnite lobby bot creation and hosting service controlled throug
 7. Enjoy the features of the bot!
 
 # Invite the Bot
-Go to https://atomicxyz.tk/atomicbot to invite the bot and join the support server
+Invite Link: https://discord.com/api/oauth2/authorize?client_id=829050201648922645&permissions=387136&scope=bot
 
 # Commands and features
 
