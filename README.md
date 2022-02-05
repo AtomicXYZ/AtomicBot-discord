@@ -49,6 +49,7 @@ Invite Link: https://discord.com/api/oauth2/authorize?client_id=8290502016489226
 And more!
 
 # Credits
+[Pirxcy](https://github.com/PirxcyFinal)<br>
 [MixV2](https://github.com/MixV2) - Epic Games Endpoints Resources<br>
 [BenBot API](https://benbotfn.tk/) - Cosmetic Data<br>
 [Fortnite-API.com](https://fortnite-api.com/) - Utility Commands & Cosmetic Variants Data<br>
